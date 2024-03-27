@@ -6,6 +6,6 @@
 
 
 <div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joselv1990)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joselv1990)](https://github.com/Joselv1990/github-readme-stats)
   
 </div>
