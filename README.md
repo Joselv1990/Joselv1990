@@ -19,7 +19,7 @@
 
 Engenheiro de Software com MBA pela USP-ESALQ e mais de 3 anos de experiência em **QA Automation** em squads ágeis (Scrum/Kanban). Atuo na criação de frameworks de testes robustos com foco em cobertura, rastreabilidade e integração contínua.
 
-Tenho vivência em testes **Web, Mobile e API**, com experiência em ambientes de alta criticidade como plataformas de telemedicina e healthtech. Minha passagem como **Product Owner** complementa a atuação técnica com visão estratégica de produto e comunicação eficaz com times de negócio.
+Tenho vivência em testes **Web, Mobile e API**, com experiência em ambientes de alta criticidade como plataformas de telemedicina e healthtec.
 
 🌐 **Inglês C1** — EFSET Certificado
 
