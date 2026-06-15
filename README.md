@@ -61,8 +61,10 @@ Tenho vivência em testes **Web, Mobile e API**, com experiência em ambientes d
 
 | Projeto | Stack | Cobertura |
 |---|---|---|
-| [🔗 Web Automation Framework](https://github.com/Joselv1990/desafio-qa-automation-accenture) | Java + Selenium WebDriver + Cucumber (BDD) + RestAssured | Automação de testes de API e Frontend sobre o site demoqa.com |
-| [🔗 Mobile Automation](https://github.com/Joselv1990/mobile-automation) | Appium · Java · Android | Automação Android com BDD |
+| [🔗 Web Automation Framework](https://github.com/Joselv1990/desafio-qa-automation-accenture) | Java · Selenium WebDriver · Cucumber (BDD) · RestAssured | Automação de testes de API e Frontend sobre o site demoqa.com |
+| [🔗 Mobile Automation](https://github.com/Joselv1990/mobile-automation) | Appium · Java · Android · Cucumber (BDD) · GitHub Actions | E-commerce Android (login e carrinho) com Page Object Model, tags e relatórios |
+| [🔗 API Automation — Lojinha](https://github.com/Joselv1990/LojinhaAPIAutomacao) | Java · RestAssured · JUnit · Swagger · Postman | Testes de contrato e regras de negócio em APIs REST |
+| [🔗 Web/UI Testing — Lojinha](https://github.com/Joselv1990/LojinhaAutomacao) | Java · Selenium | Limites, acessibilidade, links quebrados, usabilidade, responsividade e performance de front-end |
 | (em desenvolvimento) [🔗 Performance Suite](#) | JMeter · Grafana | Testes de carga e relatórios |
 
 ---
