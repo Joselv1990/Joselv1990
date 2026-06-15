@@ -65,7 +65,8 @@ Tenho vivência em testes **Web, Mobile e API**, com experiência em ambientes d
 | [🔗 Mobile Automation](https://github.com/Joselv1990/mobile-automation) | Appium · Java · Android · Cucumber (BDD) · GitHub Actions | E-commerce Android (login e carrinho) com Page Object Model, tags e relatórios |
 | [🔗 API Automation — Lojinha](https://github.com/Joselv1990/LojinhaAPIAutomacao) | Java · RestAssured · JUnit · Swagger · Postman | Testes de contrato e regras de negócio em APIs REST |
 | [🔗 Web/UI Testing — Lojinha](https://github.com/Joselv1990/LojinhaAutomacao) | Java · Selenium | Limites, acessibilidade, links quebrados, usabilidade, responsividade e performance de front-end |
-| (em desenvolvimento) [🔗 Performance Suite](#) | JMeter · Grafana | Testes de carga e relatórios |
+| [🔗 Web E2E — Playwright](https://github.com/Joselv1990/playwright-typescript-e2e) | Playwright · TypeScript | E2E em saucedemo.com com Page Object Model, fixtures e relatório HTML |
+| [🔗 Performance — JMeter](https://github.com/Joselv1990/performance-jmeter) | Apache JMeter | Testes de carga/performance de API com assertions de SLA e dashboard HTML no CI |
 
 ---
 
