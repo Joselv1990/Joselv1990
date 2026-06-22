@@ -67,6 +67,7 @@ Tenho vivência em testes **Web, Mobile e API**, com experiência em ambientes d
 | [🔗 Web/UI Testing — Lojinha](https://github.com/Joselv1990/LojinhaAutomacao) | Java · Selenium | Limites, acessibilidade, links quebrados, usabilidade, responsividade e performance de front-end |
 | [🔗 Web E2E — Playwright](https://github.com/Joselv1990/playwright-typescript-e2e) | Playwright · TypeScript | E2E em saucedemo.com com Page Object Model, fixtures e relatório HTML |
 | [🔗 Performance — JMeter](https://github.com/Joselv1990/performance-jmeter) | Apache JMeter | Testes de carga/performance de API com assertions de SLA e dashboard HTML no CI |
+| [🔗 QA Case — SQL & Resources API](https://github.com/Joselv1990/klavi-qa-case) | SQL (MySQL 8) · Postman · Newman · Node · GitHub Actions | Fix de permissões RBAC em SQL único + plano de teste e suite Newman para a Resources API (Open Finance Brasil v3.0.0), com CI verde |
 
 ---
 
