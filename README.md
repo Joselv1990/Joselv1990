@@ -1,5 +1,5 @@
 <h1 align="center">José Luis Vieira</h1>
-<h3 align="center">QA Automation Engineer · Java · Selenium · Cucumber · BDD</h3>
+<h3 align="center">### QA Automation Engineer · Playwright/TypeScript · Java · Appium · API Testing</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jos%C3%A9-luis-vieira/" target="_blank">
@@ -17,9 +17,9 @@
 
 ## Sobre mim
 
-Engenheiro de Software com MBA pela USP-ESALQ e mais de 3 anos de experiência em **QA Automation** em squads ágeis (Scrum/Kanban). Atuo na criação de frameworks de testes robustos com foco em cobertura, rastreabilidade e integração contínua.
+Engenheiro de Software com MBA pela USP-ESALQ e mais de 4 anos de experiência em **QA Automation** em squads ágeis (Scrum/Kanban). Atuo na criação de frameworks de testes robustos com foco em cobertura, rastreabilidade e integração contínua.
 
-Tenho vivência em testes **Web, Mobile e API**, com experiência em ambientes de alta criticidade como plataformas de telemedicina e healthtec.
+Tenho vivência em testes **Web, Mobile e API**, com experiência em ambientes de alta criticidade como plataformas de fintech e healthtech.
 
 🌐 **Inglês C1** — EFSET Certificado
 
